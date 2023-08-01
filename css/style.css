@@ -1238,3 +1238,10 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+.caption {
+    position: absolute;
+    top: 40%;
+    left: 6%;
+    width: 100%;
+	color: white;
+}
